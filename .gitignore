@@ -23,3 +23,5 @@ Thumbs.db
 # Optional .orig backup files
 *.orig
 
+# SQL queries
+temp/
