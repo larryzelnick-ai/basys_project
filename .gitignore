@@ -19,3 +19,7 @@ Thumbs.db
 # Optional: IDE/editor settings
 *.idea/
 *.vscode/
+
+# Optional .orig backup files
+*.orig
+
