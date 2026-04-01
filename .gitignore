@@ -25,3 +25,6 @@ Thumbs.db
 
 # SQL queries
 temp/
+
+# Ignore old docs folder
+docs/
