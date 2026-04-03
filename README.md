@@ -137,3 +137,10 @@ id,member_name,total_claims,high_cost_claims
 ## Author
 
 Larry Zelnick – [GitHub Profile](https://github.com/larryzelnick-ai)
+
+## License
+
+This repository is made available for **personal, educational, or non-commercial use only**.  
+Commercial use, redistribution, or use in any commercial project is **not allowed** without explicit written permission.
+
+See the [LICENSE](LICENSE) file for full details.
